@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0279ab43-d4bb-4384-83a0-42f2b1fb05f6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/libro/cap12/framework/test/TestXML1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/libro/cap12/framework/test/TestXML2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/libro/cap12/framework/xml/XMLFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/libro/cap12/framework/xml/XTag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/libro/cap02/colecciones/MiCola.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/libro/cap02/colecciones/MiCola.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/libro/cap02/colecciones/MiColeccion.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/libro/cap02/colecciones/MiColeccion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/libro/cap02/colecciones/MiColeccionGen.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/libro/cap02/colecciones/MiColeccionGen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/libro/cap02/colecciones/MiPila.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/libro/cap02/colecciones/MiPila.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/libro/cap02/colecciones/TestCola.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/libro/cap02/colecciones/TestCola.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/libro/cap02/colecciones/TestMiColeccion.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/libro/cap02/colecciones/TestMiColeccion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/libro/cap02/colecciones/TestPila.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/libro/cap02/colecciones/TestPila.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/libro/cap02/colecciones/TestVector.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/libro/cap02/colecciones/TestVector.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/libro/cap02/colecciones/UNombres.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/libro/cap02/colecciones/UNombres.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/libro/cap02/estaticas/Numero.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/libro/cap02/estaticas/Numero.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/libro/cap02/estaticas/TestEstatico.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/libro/cap02/estaticas/TestEstatico.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/libro/cap02/estaticas/TestGarbageCollector.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/libro/cap02/estaticas/TestGarbageCollector.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/libro/cap02/estaticas/TestNumero.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/libro/cap02/estaticas/TestNumero.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/libro/cap02/excepciones/Aplicacion.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/libro/cap02/excepciones/Aplicacion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/libro/cap02/excepciones/Demo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/libro/cap02/excepciones/Demo1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/libro/cap02/excepciones/Demo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/libro/cap02/excepciones/Demo2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/libro/cap02/excepciones/ErrorFisicoException.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/libro/cap02/excepciones/ErrorFisicoException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/libro/cap02/excepciones/TestLogin.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/libro/cap02/excepciones/TestLogin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/libro/cap02/excepciones/Usuario.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/libro/cap02/excepciones/Usuario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/libro/cap02/fechas/Fecha.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/libro/cap02/fechas/Fecha.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/libro/cap02/instancias/Persona.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/libro/cap02/instancias/Persona.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/libro/cap02/instancias/TestPersona.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/libro/cap02/instancias/TestPersona.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/libro/cap02/instancias/TestX.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/libro/cap02/instancias/TestX.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/libro/cap02/instancias/X.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/libro/cap02/instancias/X.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/libro/cap02/interfaces/Alumno.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/libro/cap02/interfaces/Alumno.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/libro/cap02/interfaces/TestOrdenar.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/libro/cap02/interfaces/TestOrdenar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/libro/cap02/interfaces/Util.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/libro/cap02/interfaces/Util.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/libro/cap02/interfaces/criterios/Criterio.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/libro/cap02/interfaces/criterios/Criterio.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/libro/cap02/interfaces/criterios/CriterioAlumNombre.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/libro/cap02/interfaces/criterios/CriterioAlumNombre.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/libro/cap02/interfaces/criterios/CriterioAlumNotaProm.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/libro/cap02/interfaces/criterios/CriterioAlumNotaProm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/libro/cap02/interfaces/criterios/TestCriterio.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/libro/cap02/interfaces/criterios/TestCriterio.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/libro/cap02/misclases/FechaDetallada.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/libro/cap02/misclases/FechaDetallada.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/libro/cap02/misclases/FechaHora.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/libro/cap02/misclases/FechaHora.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/libro/cap03/demo/DemoSelect.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/libro/cap03/demo/DemoSelect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/libro/cap03/demo/UConnection$MiShDwnHook.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/libro/cap03/demo/UConnection$MiShDwnHook.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/libro/cap03/demo/UConnection.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/libro/cap03/demo/UConnection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/libro/cap03/demo/queries/QueryJoin.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/libro/cap03/demo/queries/QueryJoin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/libro/cap03/demo/queries/updates/UpdateInsert.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/libro/cap03/demo/queries/updates/UpdateInsert.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/libro/cap04/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/libro/cap04/Cliente.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/libro/cap04/DeptDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/libro/cap04/DeptDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/libro/cap04/DeptDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/libro/cap04/DeptDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/libro/cap04/EmpDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/libro/cap04/EmpDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/libro/cap04/EmpDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/libro/cap04/EmpDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/libro/cap04/Facade.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/libro/cap04/Facade.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/libro/cap04/TestDeptDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/libro/cap04/TestDeptDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libro/cap09/Hashtable2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/libro/cap09/Hashtable2.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/bin/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/configuracion.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-213" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/libro/cap12/framework/test/TestXML1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="6" lean-forward="true" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/libro/cap12/framework/test/TestXML2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/libro/cap12/framework/xml/XMLFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-182">
+              <caret line="25" column="41" lean-forward="true" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#280#281#0" expanded="true" />
+                <element signature="e#315#316#0" expanded="true" />
+                <element signature="e#1769#1785#0" expanded="true" />
+                <element signature="e#2003#2004#0" expanded="true" />
+                <element signature="e#2034#2035#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/libro/cap12/framework/xml/XTag.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1938">
+              <caret line="114" selection-start-line="114" selection-end-line="114" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#431#432#0" expanded="true" />
+                <element signature="e#453#454#0" expanded="true" />
+                <element signature="e#852#853#0" expanded="true" />
+                <element signature="e#878#879#0" expanded="true" />
+                <element signature="e#2480#2481#0" expanded="true" />
+                <element signature="e#2507#2508#0" expanded="true" />
+                <element signature="e#2547#2548#0" expanded="true" />
+                <element signature="e#2579#2580#0" expanded="true" />
+                <element signature="e#2629#2630#0" expanded="true" />
+                <element signature="e#2656#2657#0" expanded="true" />
+                <element signature="e#2715#2716#0" expanded="true" />
+                <element signature="e#2747#2748#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/libro/cap12/framework/xml/XTag.java" />
+        <option value="$PROJECT_DIR$/src/libro/cap12/framework/test/TestXML1.java" />
+        <option value="$PROJECT_DIR$/src/libro/cap12/framework/xml/XMLFactory.java" />
+        <option value="$PROJECT_DIR$/src/libro/cap12/framework/test/TestXML2.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="960" />
+    <option name="y" value="25" />
+    <option name="width" value="960" />
+    <option name="height" value="1053" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="libro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="libro" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="libro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="libro" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="libro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="libro" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="libro" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="libro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="libro" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="libro" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="libro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="libro" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="libro" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551374085351" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TestXML2">
+    <configuration name="TestXML1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="libro.cap12.framework.test.TestXML1" />
+      <module name="libro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="libro.cap12.framework.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestXML2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="libro.cap12.framework.test.TestXML2" />
+      <module name="libro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="libro.cap12.framework.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestXML2" />
+        <item itemvalue="Application.TestXML1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0279ab43-d4bb-4384-83a0-42f2b1fb05f6" name="Default Changelist" comment="" />
+      <created>1549930051147</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549930051147</updated>
+      <workItem from="1549930064479" duration="238000" />
+      <workItem from="1551301714965" duration="1347000" />
+      <workItem from="1551365436557" duration="9228000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10813000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="960" y="25" width="960" height="1053" extended-state="4" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.38402626" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32900432" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.27813852" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.3290653" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/libro/cap12/framework/xml/XMLFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-182">
+          <caret line="25" column="41" lean-forward="true" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#1769#1785#0" expanded="true" />
+            <element signature="e#2003#2004#0" expanded="true" />
+            <element signature="e#2034#2035#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/libro/cap12/framework/xml/XTag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1938">
+          <caret line="114" selection-start-line="114" selection-end-line="114" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#431#432#0" expanded="true" />
+            <element signature="e#453#454#0" expanded="true" />
+            <element signature="e#852#853#0" expanded="true" />
+            <element signature="e#878#879#0" expanded="true" />
+            <element signature="e#2480#2481#0" expanded="true" />
+            <element signature="e#2507#2508#0" expanded="true" />
+            <element signature="e#2547#2548#0" expanded="true" />
+            <element signature="e#2579#2580#0" expanded="true" />
+            <element signature="e#2629#2630#0" expanded="true" />
+            <element signature="e#2656#2657#0" expanded="true" />
+            <element signature="e#2715#2716#0" expanded="true" />
+            <element signature="e#2747#2748#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/libro/cap12/framework/test/TestXML1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="6" lean-forward="true" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/libro/cap12/framework/test/TestXML2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/configuracion.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-213" />
+      </provider>
+    </entry>
+  </component>
+</project>

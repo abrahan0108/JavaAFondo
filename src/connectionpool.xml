@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Esta es una forma de poder definir parámetros
+	 en un archivo XML  -->
+<connectionpool>
+	<jdbc>
+		<usr>postgres</usr>
+		<psw>#Madeleine0304</psw>
+		<url>jdbc:postgresql://localhost:5432/java_libro</url>
+		<driver>org.postresql.Driver</driver>
+	</jdbc>
+	
+	<pool>
+		<minsize>3</minsize>
+		<maxsize>8</maxsize>
+		<steep>2</steep>
+	</pool>
+
+</connectionpool>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framework>
+
+	<!-- datos de conexion JDBC -->
+	<data-access>
+		<connection-pool usr="postgres"
+						 pwd="#Madeleine0304"
+						 driver="org.postgresql.Driver"
+						 url="jdbc:postgresql://localhost:5432/java_libro"
+						 minsize="3"
+			  	 		 maxsize="8"
+			  			 steep="3"/>
+		<mapping>
+			<table name="DEPT" type="libro.cap04.DeptDTO">
+				<field name="deptno"
+					   att="deptno"
+					   type="int"
+					   pk="true" />
+				<field name="dname"
+					   type="String"
+					   att="dname" />
+				<field name="loc"
+					   type="String"
+					   att="loc" />
+			</table>
+			
+			<table name="EMP" type="libro.cap04.EmpDTO">
+				<field name="empno"
+					   att="empno"
+					   type="int"
+					   pk="true" />
+				<field name="ename"
+					   type="String"
+					   att="ename" />
+				<field name="hiredate"
+					   type="java.sql.Date"
+					   att="hiredate" />
+				<field name="deptno"
+					   type="int"
+					   att="deptno" />
+			</table>
+		</mapping>
+	</data-access>
+	
+	<!-- mapeo de beans para implementar un factory -->
+	<bean-access>
+		<bean name="FACADE"
+			  type="libro.cap04..FacadeRMIImple"
+			  singleton="false" />
+		<bean name="EMP"
+			  type="libro.cap04.EmpDAOPostgresqlImple"
+			  singleton="true" />
+		<bean name="DEPT"
+			  type="libro.cap04.DeptDAO"
+			  singleton="true" />
+	</bean-access>
+</framework>

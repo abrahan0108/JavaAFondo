@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Este diseño de parámetros permite realizar diferrentes definiciones
+	 en cuanto parametros de conexiones a bases de datos y ciertas instancias
+	 de pool  por cada base de datos   -->
+<connection-pool>
+	<jdbc>
+		<connection name="HSQLDB"
+					usr="sa"
+					pwd=""
+					driver="org.hsqldb.jdbcDriver"
+					url="jdbc:hsqldb://localhost/xdb"/>
+		
+		<connection name="ORACLE"
+					usr="scott"
+					pwd="tiger"
+					driver="jdbc.oracle.driver.OracleDriver"
+					url="jdbc:oracle:thin:@1521:ORCL"/>
+		
+		<connection name="POSTGRESQL"
+					usr="postgres"
+					pwd="#Madeleine0304"
+					driver="org.postgresql.Driver"
+					url="jdbc:postgresql://localhost:5432/java_libro"/>
+	</jdbc>
+	
+	<pools>
+		<pool name="P1"
+			  connection="HSQLDB"
+			  minsize="3"
+			  maxsize="8"
+			  steep="3" />
+			  
+		<pool name="P2"
+			  connection="ORACLE"
+			  minsize="10"
+			  maxsize="30"
+			  steep="5" />
+		
+		<pool name="P3"
+			  connection="POSTGRESQL"
+			  minsize="3"
+			  maxsize="8"
+			  steep="2" />
+	</pools>
+	
+</connection-pool>
